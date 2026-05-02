@@ -1,0 +1,9 @@
+# Mercurial Alpha — ClawStreet Trading Bot
+# Python 3.10+
+
+# Core
+requests>=2.31.0
+
+# Planetary hours engine (shared with Lunalia)
+pytz>=2024.1
+astral>=3.2
